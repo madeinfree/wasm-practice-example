@@ -24,6 +24,18 @@ node index.js
 
 golang version >= 1.11.0
 
+### Golang 程式碼
+
+```golang
+package main
+
+import "fmt"
+
+func main() {
+	fmt.Println("Hello World!")
+}
+```
+
 ### 指令
 
 \* 此份範例無須用到指令
